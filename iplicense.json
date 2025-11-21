@@ -1,9 +1,14 @@
 {
-    "ip": [
-        "5.63.21.21", asf asfasf
-        "5.63.21.59" asfasfasf
-    ]
-  }
-
-
-
+  "servers": [
+    {
+      "ip": "5.63.21.21",
+      "owner": "Baran",
+      "servername": "Baran RP"
+    },
+    {
+      "ip": "5.63.21.59",
+      "owner": "ra1der2112",
+      "servername": "LastV"
+    }
+  ]
+}
